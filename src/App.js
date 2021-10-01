@@ -53,7 +53,7 @@ console.log(portfolio_response);
         {/* <p>{this.state.data.vimeoId}</p> */}
         {this.state.photos.map(entry => {
           return (
-            <p>ciao</p>
+            <p>ciao dai</p>
             // <PortfolioItem title={entry.url} description={entry.hash} background={entry.provider} />
           )
         })}
